@@ -49,6 +49,7 @@ A atividade consiste no desenvolvimento de uma API usando Node.js para o recebim
 - utilizar somente os estilos usando o Stylesheet;
 
 ## Para o cumprimento da realização da atividade avaliativa, tem-se os seguintes requisitos:
+- cada equipe deverá criar uma pasta para cada parte do sistema: `api` e `app`;
 - realizar o fork do repositório do GitHub;
 - enviar até a data limite da atividadeuma pull request para o repositório do GitHub com a contribuição de cada membro da equipe;
 - os dados de conexão com o banco de dados PostgreSQL da Neon devem ser armazenados em variáveis de ambiente e será fornecidos pelo professor em breve;
